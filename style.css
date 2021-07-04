@@ -33,3 +33,24 @@ section{
   background-image: url("photo/top-banner.png");
   background-repeat: no-repeat;
 }
+.sec-2
+.half img{
+  width: 80%;
+
+}
+.half{
+  width: 50%;
+  padding: 2%;
+}
+.click-resume{
+  text-decoration: none;
+  font-weight: 600;
+  padding: 10px 50px;
+ color: white;
+ border-radius: 5px;
+  background-image: linear-gradient(#faa661,tomato);
+}
+h2{
+  font-weight: 700;
+  font-size: 40px;
+}
